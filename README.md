@@ -3,7 +3,7 @@
 <h3 align="center">🧠 I'm DSA Enthusiast ,currently learning - Backend Web Development ,</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">  
+ 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **my problem solving skills**
