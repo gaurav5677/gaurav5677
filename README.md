@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav🐱‍👤</h1>
 <h3 align="center">🧠 I'm DSA Enthusiast ,currently learning - Backend Web Development ,</h3>
 
-<img align="right" alt="Coding" width="530" src"https://cdn.dribbble.com/users/189524/screenshots/2110114/media/ee2a54e0922db2e8c4d5a7fb0ba35aba.gif">  
+<img align="right" alt="Coding" width="530" src="https://cdn.dribbble.com/users/189524/screenshots/2110114/media/ee2a54e0922db2e8c4d5a7fb0ba35aba.gif">  
 
  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
