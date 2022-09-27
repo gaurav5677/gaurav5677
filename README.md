@@ -60,4 +60,3 @@
 <br>
 
 
-Aspiring Software Developer who works 24/7 to improve himself | Web Developer | GSSoC '21 | Computer Science Student Graduating In 2023
