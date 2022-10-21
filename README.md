@@ -38,10 +38,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats
 
 <p align="center">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=gruvbox&hide_border=true" />
+ 
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=gruvbox&hide_border=true" />
   </a>
+  </p>
+  
+<p align="center">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=gruvbox&hide_border=true" />
+  
 </p>
 <br>
 
