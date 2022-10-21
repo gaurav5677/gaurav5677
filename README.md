@@ -37,25 +37,17 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats
 
-  <p align="center">
-    <a href="https://github.com/gaurav5677/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaurav's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=gruvbox&hide_border=true" />
+  </a>
 </p>
-<p align="center">
-    <a href="https://github.com/gaurav5677/github-readme-stats"><img alt="Gaurav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/gaurav5677/github-readme-stats"><img alt="Gaurav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav5677&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p><br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br>
+
+[![Gaurav's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaurav5677&bg%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<br/>
-<br/>
-<a href="https://github.com/gaurav5677/github-readme-activity-graph"><img alt="Gaurav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gaurav5677&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 
 
 <p align="center">
