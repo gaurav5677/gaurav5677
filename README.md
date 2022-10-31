@@ -39,12 +39,12 @@
 
 <p align="center">
  
-  <img width="68%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=gruvbox&hide_border=true" />
   </a>
   </p>
   
 <p align="center">
-    <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=gruvbox&hide_border=true" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=gruvbox&hide_border=true" />
   
 </p>
 <br>
