@@ -38,19 +38,16 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats
 
 <p align="center">
- 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=gruvbox&hide_border=true" />
+
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=dark&hide_border=true" />
   </a>
-  </p>
-  
-<p align="center">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=gruvbox&hide_border=true" />
-  
 </p>
-<br>
 
-[![Gaurav's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaurav5677&bg%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
+
+
+[![Gaurav's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)]
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
