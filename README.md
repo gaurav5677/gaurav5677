@@ -69,9 +69,6 @@
   </a>
 </p>
 
-
-
-
 ![Gaurav's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
