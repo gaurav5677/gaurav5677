@@ -44,6 +44,19 @@
    ![jQuary](https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jQuery&color=151515&logoColor=000&labelColor=f28a00)
    ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&color=151515&logoColor=000&labelColor=f28a00)
 
+- 💾 Databases:
+
+    
+    ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&color=151515&logoColor=000&labelColor=f28a00) 
+    ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&color=151515&logoColor=000&labelColor=f28a00)    
+
+    
+- 🎛️ Application and Tools:
+
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&color=151515&logoColor=000&labelColor=f28a00)
+    ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=f28a00)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    
 <!-- <div align="center">
  
 
