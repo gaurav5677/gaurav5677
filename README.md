@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&color=151515&logoColor=000&labelColor=f28a00">
     ![typescropt](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00)
    <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-   <img src="https://img.shields.io/badge/java-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
+   <img src="https://img.shields.io/badge/java-000?style=for-the-badge&logo=Java&color=151515&logoColor=000&labelColor=f28a00">
  ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?style=for-the-badge&logo=SQL&color=151515&logoColor=000&labelColor=f28a00)
     
     
