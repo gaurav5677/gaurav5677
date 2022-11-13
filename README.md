@@ -26,12 +26,11 @@
     ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&color=151515&logoColor=000&labelColor=f28a00)
     ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&color=151515&logoColor=000&labelColor=f28a00)
     ![javascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&color=151515&logoColor=000&labelColor=f28a00)
-    ![nodejs](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00)
     <img src="https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&color=151515&logoColor=000&labelColor=f28a00">
-    ![typescropt](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00)
-   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00">
-   <img src="https://img.shields.io/badge/java-000?style=for-the-badge&logo=Java&color=151515&logoColor=000&labelColor=f28a00">
- ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?style=for-the-badge&logo=SQL&color=151515&logoColor=000&labelColor=f28a00)
+    <img src="https://img.shields.io/badge/java-000?style=for-the-badge&logo=Java&color=151515&logoColor=000&labelColor=f28a00">
+ 
+<!--     ![typescropt](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&color=151515&logoColor=000&labelColor=f28a00)
+   <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=151515&logoColor=000&labelColor=f28a00"> -->
     
     
     
@@ -39,17 +38,20 @@
 - 🎨 Frameworks
  
    ![Reactjs](https://img.shields.io/badge/react%20-00?style=for-the-badge&logo=React&color=151515&logoColor=000&labelColor=f28a00)
-   ![Nextjs](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&color=151515&logoColor=000&labelColor=f28a00)
-   ![redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=Redux&color=151515&logoColor=000&labelColor=f28a00)
+    ![nodejs](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00) 
+<!--    ![Nextjs](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&color=151515&logoColor=000&labelColor=f28a00) -->
+    
+<!--     ![redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=Redux&color=151515&logoColor=000&labelColor=f28a00)
    ![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&color=151515&logoColor=000&labelColor=f28a00)
    ![jQuary](https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jQuery&color=151515&logoColor=000&labelColor=f28a00)
-   ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&color=151515&logoColor=000&labelColor=f28a00)
+   ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&color=151515&logoColor=000&labelColor=f28a00) -->
 
 - 💾 Databases:
 
-    
-    ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&color=151515&logoColor=000&labelColor=f28a00) 
     ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&color=151515&logoColor=000&labelColor=f28a00)    
+     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?style=for-the-badge&logo=SQL&color=151515&logoColor=000&labelColor=f28a00)  
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&color=151515&logoColor=000&labelColor=f28a00)  -->
+  
 
     
 - 🎛️ Application and Tools:
