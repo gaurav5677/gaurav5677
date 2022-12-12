@@ -8,7 +8,8 @@
 
 
 
--  🔭 I’m currently working on **my problem solving skills**
+-  🔭 I’m currently workin
+g on **my problem solving skills**
 
 - 🌱 I’m currently learning **Data Structure & algorithm in java.**
 
