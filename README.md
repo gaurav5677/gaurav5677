@@ -185,12 +185,13 @@ g on **my problem solving skills**
 ![Gaurav's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+ 
 
+ ## <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me
 
-
-
-<p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me
+<!--  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+    
+## My Github Stats. -->
 <br>
 <a href="https://linkedin.com/in/gaurav-patil-a9197a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-patil-a9197a213" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravp_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravp_48" height="30" width="40" /></a>
