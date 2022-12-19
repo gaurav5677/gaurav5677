@@ -7,17 +7,16 @@
 
 
 
-<h2 align="center">🧠 I'm DSA Enthusiast , currently learning - Backend Web Development.</h2>
+<h2 align="center">🧠 A  DSA Enthusiast  , currently learning - FrontEnd Development.</h2>
 
 
 
 
--  🔭 I’m currently workin
-g on **my problem solving skills**
+-  🔭 I’m currently working on **my problem solving skills**
 
-- 🌱 I’m currently learning **Data Structure & algorithm in java.**
+- 🌱 I’m making my Hands Durty  with   **React.js **
 
-- 👯 I’m looking forward to collaborate on **topics related to - DSA , Web Development , Python , Java.**
+- 👯 I’m looking forward to collaborate on **topics related to - FrontEnd and DataStructure & Algorithms.**
 
 - 📫 How to reach me **gauravpatilfamily7@gmail.com**
 
