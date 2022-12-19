@@ -59,7 +59,7 @@ g on **my problem solving skills**
 - 💾 Databases:
 
     ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&color=151515&logoColor=000&labelColor=f28a00)    
-     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?style=for-the-badge&logo=SQL&color=151515&logoColor=000&labelColor=f28a00)  
+<!--      ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?style=for-the-badge&logo=SQL&color=151515&logoColor=000&labelColor=f28a00)   -->
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&color=151515&logoColor=000&labelColor=f28a00)  -->
   
 
@@ -172,21 +172,31 @@ g on **my problem solving skills**
 </p>
 
  -->
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> My Github Stats.
 
-<!-- <p align="center">
+ <p align="center">
 
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gaurav5677&show_icons=true&theme=dark&hide_border=true&icon_color=f28a00" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav5677&theme=dark&hide_border=true" />
   </a>
 </p>
 
-![Gaurav's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- -->
+<!-- ![Gaurav's Activity Graph](https://activity-graph.herokuapp.com/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00) -->
+
+ 
  
 <p align="center">
+<a href="https://github.com/gaurav5677/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00">
+</a>
+<a href="https://github.com/gaurav5677/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00">
+</a>
+</p>
+
+
+<!-- <p align="center">
 <a href="https://github.com/gaurav5677/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav5677&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
@@ -195,7 +205,8 @@ g on **my problem solving skills**
 </a>
 </p>
 
-
+ -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
  ## <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me</p>
 <p align="center">
