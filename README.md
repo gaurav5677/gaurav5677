@@ -213,7 +213,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/gaurav-patil-a9197a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-patil-a9197a213" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravp_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauravp_48" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gauravpatilfamily7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravpatilfamily7" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/gauravpatilfamily7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravpatilfamily7" height="30" width="40" /></a> -->
 </p>
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
