@@ -189,10 +189,10 @@
  
 <p align="center">
 <a href="https://github.com/gaurav5677/github-readme-activity-graph#gh-light-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=ffffff">
 </a>
 <a href="https://github.com/gaurav5677/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gaurav5677&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=ffffff">
 </a>
 </p>
 
