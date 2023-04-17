@@ -7,6 +7,8 @@
 
 
 
+<!-- Hi, I'm Gaurav, a passionate self-taught frontend developer. learning backend development as well. I love solving problems.   -->
+
 
 
 <h2 align="center">🧠 A  DSA Enthusiast  , currently learning - FrontEnd Development.</h2>
