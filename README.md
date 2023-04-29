@@ -43,18 +43,25 @@
     
     
     
-- 🎨 Frameworks
+- 🎨 Frameworks:
  
-   ![Reactjs](https://img.shields.io/badge/react%20-00?style=for-the-badge&logo=React&color=151515&logoColor=000&labelColor=f28a00)
+  ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   ![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+   ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+   ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+   ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<!--    ![Reactjs](https://img.shields.io/badge/react%20-00?style=for-the-badge&logo=React&color=151515&logoColor=000&labelColor=f28a00)
     ![nodejs](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&color=151515&logoColor=000&labelColor=f28a00) 
-<!--    ![Nextjs](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&color=151515&logoColor=000&labelColor=f28a00) -->
+   ![Nextjs](https://img.shields.io/badge/next.js-000?style=for-the-badge&logo=nextdotjs&color=151515&logoColor=000&labelColor=f28a00)
     
-<!--     ![redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=Redux&color=151515&logoColor=000&labelColor=f28a00)
+ ![redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=Redux&color=151515&logoColor=000&labelColor=f28a00)
    ![Vue](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=Vue.js&color=151515&logoColor=000&labelColor=f28a00)
    ![jQuary](https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jQuery&color=151515&logoColor=000&labelColor=f28a00)
-   ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&color=151515&logoColor=000&labelColor=f28a00) -->
+   ![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&color=151515&logoColor=000&labelColor=f28a00) 
 
-    
+     -->
     
     
     
@@ -72,6 +79,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&color=151515&logoColor=000&labelColor=f28a00)
     ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&color=151515&logoColor=000&labelColor=f28a00)
     ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&color=151515&logoColor=000&labelColor=f28a00)
+ 
     
 <!-- <div align="center">
  
