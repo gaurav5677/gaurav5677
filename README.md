@@ -18,7 +18,7 @@
 
 -  🔭 I’m currently working on **my problem solving skills**
 
-- 🌱  making my Hands Durty  with   **React.js**
+- 🌱  making my Hands Dirty  with   **React.js**
 
 - 👯 I’m looking forward to collaborate on **topics related to - FrontEnd and DataStructure & Algorithms.**
 
