@@ -20,9 +20,9 @@
 
 - 🌱  making my Hands Dirty  with   **React.js**
 
-- 👯 I’m looking forward to collaborate on **topics related to - FrontEnd and DataStructure & Algorithms.**
+- 👯 I’m looking forward to collaborate on **topics related to - FrontEnd & UX\UI.**
 
-- 📫 How to reach me **gauravpatilfamily7@gmail.com**
+- 📫 How to reach me **gauravap101@gmail.com**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
